@@ -145,7 +145,3 @@ microservices-callback-demo/
 - Use Resilience4j for advanced retry & circuit breaker patterns.  
 
 ---
-
-## 👨‍💻 Author
-
-Generated with ❤️ using ChatGPT  
